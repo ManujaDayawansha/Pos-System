@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pos system": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true
+    }
+  }
+}

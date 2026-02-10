@@ -1,0 +1,14 @@
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Pos system.exe
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Pos system.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Pos system.deps.json
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Pos system.runtimeconfig.json
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Pos system.pdb
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Core.xml
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\yasa\Source\Repos\Pos system\Pos system\bin\Release\net8.0-windows\publish\Microsoft.Web.WebView2.Wpf.xml

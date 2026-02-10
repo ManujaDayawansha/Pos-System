@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JW3fluvtFnA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasa\\Source\\Repos\\Pos system\\Pos system\\Pos system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasa\\.nuget\\packages\\microsoft.web.webview2\\1.0.3719.77\\microsoft.web.webview2.1.0.3719.77.nupkg.sha512"
+  ],
+  "logs": []
+}
